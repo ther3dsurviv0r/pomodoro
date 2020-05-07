@@ -17,4 +17,3 @@ Working Time:
 Break:
 ![Screenshot](image/screenshot_2.png)
 
-(Code is working properly, but in later updates I will optimize it.)
