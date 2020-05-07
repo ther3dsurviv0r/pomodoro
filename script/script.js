@@ -48,7 +48,7 @@ class Time{
 function init(){
     placeSecond=document.getElementById("sec");
     placeMinute=document.getElementById("min");
-	soundButton=document.getElementById("btnsound");
+    soundButton=document.getElementById("btnsound");
     timer25 = new Time("Work",25,0,"sound/victory.mp3","tomato");
     timer5 = new Time("Break",5,0,"sound/beep.mp3","cornflowerblue");
     timer25.setParameters();
